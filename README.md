@@ -4,7 +4,7 @@
   
   This is Abdullah Şahin
   
-  I’m stuyding be a full-satck developer
+  I’m stuyding maths and trying to be a full-stack developer
 
 </div>
 
