@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Abdullah Şahin</h1>
-<h3 align="center">Full-stack developer / Part-time student</h3>
+<h3 align="center">Back-End developer / Part-time student</h3>
 
 - 🔭 I’m currently working on [Commun](https://github.com/Abdullah-Sahin/Commun)
 
 - 🌱 I’m currently learning **React js**
+ 
+- 🌱 I’m will learn **React Native**
 
 - 💬 Ask me about **java, springboot**
 
