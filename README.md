@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React js**
  
-- 🌱 I’m will learn **React Native**
+- 🌱 I will learn **React Native**
 
 - 💬 Ask me about **java, springboot**
 
