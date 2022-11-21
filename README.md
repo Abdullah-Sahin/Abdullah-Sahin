@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abdullah Şahin</h1>
 <h3 align="center">Back-End developer / Part-time student</h3>
 
-- 🔭 I’m currently working on [Commun](https://github.com/Abdullah-Sahin/Commun-Back-End)
+- 🔭 I’m currently working on the start-up project of my friends and I
 
 - 💬 Ask me about **java, springboot, javascript, react-native**
 
