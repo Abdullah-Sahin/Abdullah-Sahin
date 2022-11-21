@@ -3,11 +3,7 @@
 
 - 🔭 I’m currently working on [Commun](https://github.com/Abdullah-Sahin/Commun-Back-End)
 
-- 🌱 I’m currently learning **React js**
- 
-- 🌱 I will learn **React Native**
-
-- 💬 Ask me about **java, springboot**
+- 💬 Ask me about **java, springboot, javascript, react-native**
 
 - 📫 How to reach me **abdsahin3@gmail.com**
 
